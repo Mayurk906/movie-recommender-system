@@ -58,6 +58,8 @@ movie-recommender-system/
 ## Installation
 
 ```bash
+git clone https://github.com/Mayurk906/movie-recommender-system.git
+cd movie-recommender-system
 pip install -r requirements.txt
 streamlit run app.py
 ```
