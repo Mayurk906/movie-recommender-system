@@ -79,6 +79,8 @@ streamlit run app.py
 ```
 
 ---
+## Notes
+The similarity matrix is stored as a compressed `.pkl.gz` file to reduce repository size.
 
 ## Future Improvements
 - Add TF-IDF vectorization
